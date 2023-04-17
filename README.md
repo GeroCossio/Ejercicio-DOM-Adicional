@@ -22,7 +22,7 @@ Cosas que se necesitan tener instaladas o configuradas previamente para utilizar
 
 En una terminal usar el siguiente comando
 
-git clone https://github.com/GeroCossio/Ejercicio-DOM-1.git
+git clone https://github.com/GeroCossio/Ejercicio-DOM-Adicional.git
 
 
 ## Autor 👩‍💻
